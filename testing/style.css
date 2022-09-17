@@ -1,0 +1,29 @@
+.engine {
+    position: absolute;
+    top: 50px;
+    bottom: 0px;
+    left: 0px;
+    width: 1000px;
+    height: 1000px;
+    background-color: black;
+}
+
+.perfmonitor{
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    width: 160px;
+    height: 90px;
+    background-color: rgb(20, 20, 45);
+    opacity: 0.9;
+    border: 2px;
+    border-style: dashed;
+    border-color: red;
+    text-size-adjust: 20px;
+    font-size: 20px;
+}
+
+.text{
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+}
